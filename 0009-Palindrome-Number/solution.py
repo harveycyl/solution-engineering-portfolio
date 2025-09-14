@@ -99,7 +99,17 @@ def run_tests():
                 "intermediate": "public void greet()",
                 "final": "def greet()"
             },
-            "hash": 12345  # Non-symmetric hash indicating altered code
+            "hash": 12321  # Symmetric hash: successful round-trip translation
+
+        },
+        {
+            "name": "Failed Code Translation",
+            "chain": {
+                "original": "def process_data(x):",
+                "intermediate": "public void processData(Object x)",
+                "final": "def process_data(obj)"  # Notice type information was lost
+            },
+            "hash": 12345  # Non-symmetric hash: lost type information
         }
     ]
     
