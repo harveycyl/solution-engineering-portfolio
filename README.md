@@ -11,16 +11,18 @@ Instead of treating algorithms as abstract puzzles, this portfolio:
 - Shows how classic solutions adapt to modern AI challenges
 
 ### Dual-Purpose Solutions
-Each solution presents:
-1. Traditional Business Implementation
-   - Practical business scenarios
-   - Clear value propositions
-   - Industry-relevant examples
+Each solution presents exactly:
+1. **One Business Use Case**
+   - Single practical business scenario
+   - Clear value proposition
+   - Industry-relevant application
 
-2. Modern AI Application
-   - AI system orchestration
-   - Model coordination patterns
-   - Transformation validation
+2. **One AI Orchestration Use Case**
+   - Single AI system orchestration scenario
+   - Model coordination or workflow optimization
+   - Measurable performance improvement
+
+**Important**: Each problem includes only 1 business case + 1 AI case. No additional use cases should be added.
 
 ## Current Solutions
 
