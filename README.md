@@ -24,15 +24,22 @@ Each solution presents:
 
 ## Current Solutions
 
-### [0001-Two-Sums](./0001-Two-Sums)
-- **Traditional Use**: Expense report reconciliation
-- **AI Application**: Model capability pairing
-- **Key Innovation**: Using the same algorithm to match both financial transactions and AI model capabilities
+### Two Pointers
+- [3Sum](./Two%20Pointers/3Sum)
+- [Remove Nth Node From End](./Two%20Pointers/Remove-Nth-Node-From-End)
+- [Valid Palindrome](./Two%20Pointers/Valid-Palindrome)
 
-### [0009-Palindrome-Number](./0009-Palindrome-Number)
-- **Traditional Use**: Manufacturing quality control
-- **AI Application**: Transformation chain validation
-- **Key Innovation**: Applying palindrome checking to verify both serial numbers and AI transformation integrity
+### Fast and Slow Pointers
+- [Circular Array Loop](./Fast%20and%20Slow%20Pointers/Circular-Array-Loop)
+- [Find Duplicate Number](./Fast%20and%20Slow%20Pointers/Find-Duplicate-Number)
+
+### Sliding Windows
+- [Longest Repeating Character Replacement](./Sliding%20Windows/Longest-Repeating-Character-Replacement)
+- [Longest Substring Without Repeating](./Sliding%20Windows/Longest-Substring-Without-Repeating)
+
+### Merge Intervals
+- [Merge Intervals](./Merge%20Intervals/Merge-Intervals)
+- [Insert Interval](./Merge%20Intervals/Insert-Interval)
 
 ## Technical Highlights
 
